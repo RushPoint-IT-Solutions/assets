@@ -76,7 +76,7 @@
                                 <td>Straight Line (36 months)</td>
                                 <td>Yes</td>
                                 <td>Yes</td>
-                                <td class="text-right">$2,500.00</td>
+                                <td class="text-right">₱2,500.00</td>
                                 <td>PO-2024-001</td>
                                 <td>ORD-2024-001</td>
                                 <td>Admin User</td>
@@ -136,7 +136,7 @@
                                 <td>Straight Line (24 months)</td>
                                 <td>Yes</td>
                                 <td>No</td>
-                                <td class="text-right">$7,500.00</td>
+                                <td class="text-right">₱7,500.00</td>
                                 <td>PO-2023-045</td>
                                 <td>ORD-2023-089</td>
                                 <td>IT Manager</td>
@@ -196,7 +196,7 @@
                                 <td>Straight Line (60 months)</td>
                                 <td>Yes</td>
                                 <td>Yes</td>
-                                <td class="text-right">$5,000.00</td>
+                                <td class="text-right">₱5,000.00</td>
                                 <td>PO-2024-015</td>
                                 <td>ORD-2024-032</td>
                                 <td>System Admin</td>
@@ -256,7 +256,7 @@
                                 <td>Straight Line (36 months)</td>
                                 <td>Yes</td>
                                 <td>Yes</td>
-                                <td class="text-right">$12,000.00</td>
+                                <td class="text-right">₱12,000.00</td>
                                 <td>PO-2023-078</td>
                                 <td>ORD-2023-156</td>
                                 <td>Engineering Lead</td>
@@ -316,7 +316,7 @@
                                 <td>Straight Line (12 months)</td>
                                 <td>No</td>
                                 <td>Yes</td>
-                                <td class="text-right">$8,000.00</td>
+                                <td class="text-right">₱8,000.00</td>
                                 <td>PO-2023-098</td>
                                 <td>ORD-2023-201</td>
                                 <td>IT Director</td>
@@ -361,7 +361,7 @@
                         <tfoot>
                             <tr id="totalRow">
                                 <td colspan="18" class="text-right"><strong>Total:</strong></td>
-                                <td class="text-right"><strong id="totalCost">$35,000.00</strong></td>
+                                <td class="text-right"><strong id="totalCost">₱35,000.00</strong></td>
                                 <td colspan="8"></td>
                             </tr>
                         </tfoot>

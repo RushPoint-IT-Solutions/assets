@@ -337,12 +337,12 @@
                         </li>
 
                         <!-- Accessories -->
-                        {{-- <li class="nav-item">
+                        <li class="nav-item">
                             <a class="nav-link menu-link" href="/accessories">
                                 <i class="ri-plug-line"></i>
                                 <span>Accessories</span>
                             </a>
-                        </li> --}}
+                        </li>
 
                         <!-- Consumables -->
                         {{-- <li class="nav-item">

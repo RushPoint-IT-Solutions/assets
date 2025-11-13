@@ -21,8 +21,11 @@ Auth::routes();
 Route::group(['middleware' => ['auth']], function () {
     Route::get('/', 'DashboardController@index')->name('dashboard');
 
+    // licenses
     Route::get('license', 'LicenseController@index')->name('license');
     
+    // accessories
+    Route::get('accessories', 'AccessoriesController@index')->name('accessories');
 });
 
 Route::get('password/reset', function () {
