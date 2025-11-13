@@ -7,7 +7,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ config('app.name', 'LiMS') }}</title>
+    <title>{{ config('app.name', 'ASSETS') }}</title>
     <link rel="shortcut icon" href="{{url('assets/images/marsu-logo.png')}}">
 
     <!-- Layout config Js -->

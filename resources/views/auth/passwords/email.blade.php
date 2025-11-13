@@ -241,7 +241,7 @@
         <h2 class="system-title">MARSU</h2>
         <h3 class="system-subtitle">Library Management System</h3>
         
-        <p class="system-description">"Your premier digital library <br> for borrowing and reading <br> books"</p>
+        <p class="system-description">"Your premier system for managing <br> and tracking assets <br> efficiently"</p>
     </div>
 </div>
 @endsection
