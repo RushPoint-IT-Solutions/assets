@@ -293,7 +293,7 @@
 
                         <!-- Dashboard -->
                         <li class="nav-item">
-                            <a class="nav-link menu-link" href="/">
+                            <a class="nav-link menu-link" href="{{url('/')}}">
                                 <i class="ri-dashboard-2-line"></i> 
                                 <span>Dashboard</span>
                             </a>
@@ -330,7 +330,7 @@
 
                         <!-- Licenses -->
                         <li class="nav-item">
-                            <a class="nav-link menu-link" href="/licenses">
+                            <a class="nav-link menu-link" href="{{url('/license')}}">
                                 <i class="ri-file-text-line"></i>
                                 <span>Licenses</span>
                             </a>

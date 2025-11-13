@@ -20,6 +20,8 @@ Route::get('/', function () {
 Auth::routes();
 Route::group(['middleware' => ['auth']], function () {
     Route::get('/', 'DashboardController@index')->name('dashboard');
+
+    Route::get('license', 'LicenseController@index')->name('license');
     
 });
 
