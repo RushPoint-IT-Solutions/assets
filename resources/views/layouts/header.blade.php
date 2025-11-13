@@ -300,7 +300,7 @@
                         </li>
 
                         <!-- Assets Section -->
-                        <li class="nav-item">
+                        {{-- <li class="nav-item">
                             <a class="nav-link menu-link" href="#sidebarAssets" data-bs-toggle="collapse">
                                 <i class="ri-book-line"></i>
                                 <span>Assets</span>
@@ -326,7 +326,7 @@
                                     <li class="nav-item"><a href="/hardware/bulkaudit" class="nav-link">Bulk Audit</a></li>
                                 </ul>
                             </div>
-                        </li>
+                        </li> --}}
 
                         <!-- Licenses -->
                         <li class="nav-item">
@@ -337,39 +337,39 @@
                         </li>
 
                         <!-- Accessories -->
-                        <li class="nav-item">
+                        {{-- <li class="nav-item">
                             <a class="nav-link menu-link" href="/accessories">
                                 <i class="ri-plug-line"></i>
                                 <span>Accessories</span>
                             </a>
-                        </li>
+                        </li> --}}
 
                         <!-- Consumables -->
-                        <li class="nav-item">
+                        {{-- <li class="nav-item">
                             <a class="nav-link menu-link" href="/consumables">
                                 <i class="ri-inbox-line"></i>
                                 <span>Consumables</span>
                             </a>
-                        </li>
+                        </li> --}}
 
                         <!-- Components -->
-                        <li class="nav-item">
+                        {{-- <li class="nav-item">
                             <a class="nav-link menu-link" href="/components">
                                 <i class="ri-cpu-line"></i>
                                 <span>Components</span>
                             </a>
-                        </li>
+                        </li> --}}
                         
                         <!-- Predefined Kits -->
-                        <li class="nav-item">
+                        {{-- <li class="nav-item">
                             <a class="nav-link menu-link" href="/kits">
                                 <i class="ri-stack-line"></i>
                                 <span>Predefined Kits</span>
                             </a>
-                        </li>
+                        </li> --}}
 
                         <!-- People/Users -->
-                        <li class="nav-item">
+                        {{-- <li class="nav-item">
                             <a class="nav-link menu-link" href="#sidebarUsers" data-bs-toggle="collapse">
                                 <i class="ri-team-line"></i>
                                 <span>People</span>
@@ -384,18 +384,18 @@
                                     <li class="nav-item"><a href="/users?activated=0" class="nav-link">Login Disabled</a></li>
                                 </ul>
                             </div>
-                        </li>
+                        </li> --}}
 
                         <!-- Import -->
-                        <li class="nav-item">
+                        {{-- <li class="nav-item">
                             <a class="nav-link menu-link" href="/imports">
                                 <i class="ri-upload-cloud-line"></i>
                                 <span>Import</span>
                             </a>
-                        </li>
+                        </li> --}}
 
                         <!-- Settings Section -->
-                        <li class="nav-item">
+                        {{-- <li class="nav-item">
                             <a class="nav-link menu-link" href="#sidebarSettings" data-bs-toggle="collapse">
                                 <i class="ri-settings-3-line"></i>
                                 <span>Settings</span>
@@ -414,10 +414,10 @@
                                     <li class="nav-item"><a href="/depreciations" class="nav-link">Depreciation</a></li>
                                 </ul>
                             </div>
-                        </li>
+                        </li> --}}
 
                         <!-- Reports Section -->
-                        <li class="nav-item">
+                        {{-- <li class="nav-item">
                             <a class="nav-link menu-link" href="#sidebarReports" data-bs-toggle="collapse">
                                 <i class="ri-file-chart-line"></i>
                                 <span>Reports</span>
@@ -434,15 +434,15 @@
                                     <li class="nav-item"><a href="/reports/accessories" class="nav-link">Accessory Report</a></li>
                                 </ul>
                             </div>
-                        </li>
+                        </li> --}}
 
                         <!-- Requestable Items -->
-                        <li class="nav-item">
+                        {{-- <li class="nav-item">
                             <a class="nav-link menu-link" href="/account/requestable-assets">
                                 <i class="ri-shopping-cart-line"></i>
                                 <span>Requestable Items</span>
                             </a>
-                        </li>
+                        </li> --}}
                     </ul>
 
             
