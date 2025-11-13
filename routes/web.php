@@ -26,6 +26,9 @@ Route::group(['middleware' => ['auth']], function () {
     
     // accessories
     Route::get('accessories', 'AccessoriesController@index')->name('accessories');
+
+    // components
+    Route::get('components', 'ComponentsController@index')->name('components');
 });
 
 Route::get('password/reset', function () {

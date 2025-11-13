@@ -338,7 +338,7 @@
 
                         <!-- Accessories -->
                         <li class="nav-item">
-                            <a class="nav-link menu-link" href="/accessories">
+                            <a class="nav-link menu-link" href="{{url('/accessories')}}">
                                 <i class="ri-plug-line"></i>
                                 <span>Accessories</span>
                             </a>
@@ -353,12 +353,12 @@
                         </li> --}}
 
                         <!-- Components -->
-                        {{-- <li class="nav-item">
-                            <a class="nav-link menu-link" href="/components">
+                        <li class="nav-item">
+                            <a class="nav-link menu-link" href="{{url('/components')}}">
                                 <i class="ri-cpu-line"></i>
                                 <span>Components</span>
                             </a>
-                        </li> --}}
+                        </li>
                         
                         <!-- Predefined Kits -->
                         {{-- <li class="nav-item">

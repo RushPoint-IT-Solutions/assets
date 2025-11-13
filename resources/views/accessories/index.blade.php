@@ -456,7 +456,7 @@
             totalCost += parseFloat(row.dataset.totalcost);
         });
         
-        document.getElementById('accTotalCost').textContent = '$' + totalCost.toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2});
+        document.getElementById('accTotalCost').textContent = '₱' + totalCost.toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2});
     }
 
     function accUpdatePaginationButtons() {
