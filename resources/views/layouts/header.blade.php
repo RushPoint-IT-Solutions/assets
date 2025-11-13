@@ -361,12 +361,12 @@
                         </li>
                         
                         <!-- Predefined Kits -->
-                        {{-- <li class="nav-item">
-                            <a class="nav-link menu-link" href="/kits">
+                        <li class="nav-item">
+                            <a class="nav-link menu-link" href="{{url('/predefinedkits')}}">
                                 <i class="ri-stack-line"></i>
                                 <span>Predefined Kits</span>
                             </a>
-                        </li> --}}
+                        </li>
 
                         <!-- People/Users -->
                         {{-- <li class="nav-item">

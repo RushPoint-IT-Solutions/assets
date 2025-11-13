@@ -32,6 +32,9 @@ Route::group(['middleware' => ['auth']], function () {
 
     // consumables
     Route::get('consumables', 'ConsumablesController@index')->name('consumables');
+
+    // predefined kits
+    Route::get('predefinedkits', 'PredefinedKitsController@index')->name('predefinedkits');
 });
 
 Route::get('password/reset', function () {
