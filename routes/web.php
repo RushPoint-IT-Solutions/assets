@@ -29,6 +29,9 @@ Route::group(['middleware' => ['auth']], function () {
 
     // components
     Route::get('components', 'ComponentsController@index')->name('components');
+
+    // consumables
+    Route::get('consumables', 'ConsumablesController@index')->name('consumables');
 });
 
 Route::get('password/reset', function () {

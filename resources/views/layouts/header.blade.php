@@ -345,12 +345,12 @@
                         </li>
 
                         <!-- Consumables -->
-                        {{-- <li class="nav-item">
-                            <a class="nav-link menu-link" href="/consumables">
+                        <li class="nav-item">
+                            <a class="nav-link menu-link" href="{{url('/consumables')}}">
                                 <i class="ri-inbox-line"></i>
                                 <span>Consumables</span>
                             </a>
-                        </li> --}}
+                        </li>
 
                         <!-- Components -->
                         <li class="nav-item">
